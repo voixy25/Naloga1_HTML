@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.prvi {
+    font-family: "Courier New", Courier, monospace;
+    text-indent: 10px;
+}
+
+.drugi {
+    font-family: Helvetica, Arial, sans-serif;
+    text-indent: 10px;
+}
+
+.l1 { color: red; }
+.l2 { color: green; }
+.l3 { color: blue; }
+.l4 { color: orange; }
+.l5 { color: purple; }
+.l6 { color: pink; }
+.l7 { color: yellow; }
+.l8 { color: cyan; }
+.l9 { color: lime; }
+
+ul {
+    list-style-type: none;
+}
